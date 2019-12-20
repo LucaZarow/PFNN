@@ -1,13 +1,11 @@
-Phase-Functioned Neural Networks for Character Control
-======================================================
-
-Fork
-----
+# Fork Details
 
 This repository is an adaptation of the project described below. Run 
-preprocess_footsteo_phase.py to get the contact nodes at each time frame
+preprocess_footstep_phase.py to get the contact nodes at each time frame
 of the bvh files in data/animations.
 
+Phase-Functioned Neural Networks for Character Control
+======================================================
 
 PFNN
 ----
