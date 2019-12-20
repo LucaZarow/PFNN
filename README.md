@@ -1,6 +1,17 @@
 Phase-Functioned Neural Networks for Character Control
 ======================================================
 
+Fork
+----
+
+This repository is an adaptation of the project described below. Run 
+preprocess_footsteo_phase.py to get the contact nodes at each time frame
+of the bvh files in data/animations.
+
+
+PFNN
+----
+
 This project contains the code and data for Phase-Functioned Neural Networks 
 for Character Control as presented at SIGGRAPH 2017, with the project page 
 found below:
